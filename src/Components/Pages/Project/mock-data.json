@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "Muskan Janweja",
+    "email": "muskanjanweja@gmail.com",
+    "projectname": "BudTracker",
+    "deadline": "13-03-2022"
+  },
+  {
+    "id": 2,
+    "fullName": "Aashka Janweja",
+    "email": "aashka@gmail.com",
+    "projectname": "Website",
+    "deadline": "14-03-2022"
+  },
+  {
+    "id": 3,
+    "fullName": "Arsh Janweja",
+    "email": "arsh@gmail.com",
+    "projectname": "Chatbot",
+    "deadline": "12-03-2022"
+  },
+  {
+    "id": 4,
+    "fullName": "Sachin Janweja",
+    "email": "sachin@gmail.com",
+    "projectname": "MyWorkBuddy",
+    "deadline": "13-03-2022"
+  },
+  {
+    "id": 5,
+    "fullName": "Preeti Janweja",
+    "email": "preeti@gmail.com",
+    "projectname": "BudTracker",
+    "deadline": "14-03-2022"
+  }
+]
